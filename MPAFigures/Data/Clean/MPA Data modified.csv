@@ -1,0 +1,622 @@
+﻿MPA,Category,Indicator,Score,Count,Indicator2
+Galapagos marine reserve,Ecology,Target abundance/biomass in protected area,1,1,1
+Galapagos marine reserve,Ecology,Target abundance/biomass outside protected area,5,1,2
+Galapagos marine reserve,Ecology,Non-target abundance/biomass in protected area,3,1,3
+Galapagos marine reserve,Ecology,Non-target abundance/biomass outside protected area,0,1,4
+Galapagos marine reserve,Ecology,Habitat quality in protected area,0,1,5
+Galapagos marine reserve,Ecology,Habitat quality outside protected area,0,1,6
+Galapagos marine reserve,Economics,Total Catch,0,1,1
+Galapagos marine reserve,Economics,CPUE (new 2/21),5,1,2
+Galapagos marine reserve,Economics,Total Revenue,5,1,3
+Galapagos marine reserve,Economics,No. vessels,5,1,4
+Galapagos marine reserve,Economics,Catch per vessel/fisherman (new 2/14),0,1,5
+Galapagos marine reserve,Economics,Costs,0,1,6
+Galapagos marine reserve,Economics,Net Revenue,0,1,7
+Galapagos marine reserve,Economics,Ex vessel price,5,1,8
+Galapagos marine reserve,Economics,Wholesale prices,0,1,9
+Galapagos marine reserve,Economics,Anything about processing,0,1,10
+Galapagos marine reserve,Community,Employment,5,1,1
+Galapagos marine reserve,Community,Working Conditions/safety,0,1,2
+Galapagos marine reserve,Community,Food security,5,1,3
+Galapagos marine reserve,Community,Women's involvement,3,1,4
+Galapagos marine reserve,Enabling Conditions,Institutional governance capacity of management group/agency,5,1,1
+Galapagos marine reserve,Enabling Conditions,Enforcement capacity,5,1,2
+Galapagos marine reserve,Enabling Conditions,Fisher participation in design of spatial program,5,1,3
+Galapagos marine reserve,Enabling Conditions,Fisher participation in adaptive management,5,1,4
+Galapagos marine reserve,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",5,1,5
+Galapagos marine reserve,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,5,1,6
+Galapagos marine reserve,Enabling Conditions,Increase access to urban/export markets,5,1,7
+Coral Triangle,Ecology,Target abundance/biomass in protected area,3,1,1
+Coral Triangle,Ecology,Target abundance/biomass outside protected area,3,1,2
+Coral Triangle,Ecology,Non-target abundance/biomass in protected area,3,1,3
+Coral Triangle,Ecology,Non-target abundance/biomass outside protected area,3,1,4
+Coral Triangle,Ecology,Habitat quality in protected area,3,1,5
+Coral Triangle,Ecology,Habitat quality outside protected area,3,1,6
+Coral Triangle,Economics,Total Catch,1,1,1
+Coral Triangle,Economics,CPUE (new 2/21),0,1,2
+Coral Triangle,Economics,Total Revenue,1,1,3
+Coral Triangle,Economics,No. vessels,0,1,4
+Coral Triangle,Economics,Catch per vessel/fisherman (new 2/14),0,1,5
+Coral Triangle,Economics,Costs,0,1,6
+Coral Triangle,Economics,Net Revenue,3,1,7
+Coral Triangle,Economics,Ex vessel price,0,1,8
+Coral Triangle,Economics,Wholesale prices,0,1,9
+Coral Triangle,Economics,Anything about processing,0,1,10
+Coral Triangle,Community,Employment,0,1,1
+Coral Triangle,Community,Working Conditions/safety,0,1,2
+Coral Triangle,Community,Food security,3,1,3
+Coral Triangle,Community,Women's involvement,3,1,4
+Coral Triangle,Enabling Conditions,Institutional governance capacity of management group/agency,3,1,1
+Coral Triangle,Enabling Conditions,Enforcement capacity,3,1,2
+Coral Triangle,Enabling Conditions,Fisher participation in design of spatial program,0,1,3
+Coral Triangle,Enabling Conditions,Fisher participation in adaptive management,3,1,4
+Coral Triangle,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",0,1,5
+Coral Triangle,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,0,1,6
+Coral Triangle,Enabling Conditions,Increase access to urban/export markets,0,1,7
+Goukama,Ecology,Target abundance/biomass in protected area,5,1,1
+Goukama,Ecology,Target abundance/biomass outside protected area,5,1,2
+Goukama,Ecology,Non-target abundance/biomass in protected area,5,1,3
+Goukama,Ecology,Non-target abundance/biomass outside protected area,5,1,4
+Goukama,Ecology,Habitat quality in protected area,0,1,5
+Goukama,Ecology,Habitat quality outside protected area,0,1,6
+Goukama,Economics,Total Catch,0,1,1
+Goukama,Economics,CPUE (new 2/21),5,1,2
+Goukama,Economics,Total Revenue,0,1,3
+Goukama,Economics,No. vessels,5,1,4
+Goukama,Economics,Catch per vessel/fisherman (new 2/14),0,1,5
+Goukama,Economics,Costs,4,1,6
+Goukama,Economics,Net Revenue,0,1,7
+Goukama,Economics,Ex vessel price,0,1,8
+Goukama,Economics,Wholesale prices,0,1,9
+Goukama,Economics,Anything about processing,0,1,10
+Goukama,Community,Employment,5,1,1
+Goukama,Community,Working Conditions/safety,0,1,2
+Goukama,Community,Food security,0,1,3
+Goukama,Community,Women's involvement,0,1,4
+Goukama,Enabling Conditions,Institutional governance capacity of management group/agency,,1,1
+Goukama,Enabling Conditions,Enforcement capacity,,1,2
+Goukama,Enabling Conditions,Fisher participation in design of spatial program,,1,3
+Goukama,Enabling Conditions,Fisher participation in adaptive management,,1,4
+Goukama,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",,1,5
+Goukama,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,,1,6
+Goukama,Enabling Conditions,Increase access to urban/export markets,,1,7
+Belize Marine Reserves,Ecology,Target abundance/biomass in protected area,5,1,1
+Belize Marine Reserves,Ecology,Target abundance/biomass outside protected area,5,1,2
+Belize Marine Reserves,Ecology,Non-target abundance/biomass in protected area,5,1,3
+Belize Marine Reserves,Ecology,Non-target abundance/biomass outside protected area,5,1,4
+Belize Marine Reserves,Ecology,Habitat quality in protected area,3,1,5
+Belize Marine Reserves,Ecology,Habitat quality outside protected area,3,1,6
+Belize Marine Reserves,Economics,Total Catch,1,1,1
+Belize Marine Reserves,Economics,CPUE (new 2/21),4,1,2
+Belize Marine Reserves,Economics,Total Revenue,3,1,3
+Belize Marine Reserves,Economics,No. vessels,4,1,4
+Belize Marine Reserves,Economics,Catch per vessel/fisherman (new 2/14),3,1,5
+Belize Marine Reserves,Economics,Costs,0,1,6
+Belize Marine Reserves,Economics,Net Revenue,0,1,7
+Belize Marine Reserves,Economics,Ex vessel price,3,1,8
+Belize Marine Reserves,Economics,Wholesale prices,5,1,9
+Belize Marine Reserves,Economics,Anything about processing,2,1,10
+Belize Marine Reserves,Community,Employment,3,1,1
+Belize Marine Reserves,Community,Working Conditions/safety,0,1,2
+Belize Marine Reserves,Community,Food security,0,1,3
+Belize Marine Reserves,Community,Women's involvement,0,1,4
+Belize Marine Reserves,Enabling Conditions,Institutional governance capacity of management group/agency,4,1,1
+Belize Marine Reserves,Enabling Conditions,Enforcement capacity,4,1,2
+Belize Marine Reserves,Enabling Conditions,Fisher participation in design of spatial program,4,1,3
+Belize Marine Reserves,Enabling Conditions,Fisher participation in adaptive management,4,1,4
+Belize Marine Reserves,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",3,1,5
+Belize Marine Reserves,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,3,1,6
+Belize Marine Reserves,Enabling Conditions,Increase access to urban/export markets,3,1,7
+Wakatobi,Ecology,Target abundance/biomass in protected area,3,1,1
+Wakatobi,Ecology,Target abundance/biomass outside protected area,3,1,2
+Wakatobi,Ecology,Non-target abundance/biomass in protected area,3,1,3
+Wakatobi,Ecology,Non-target abundance/biomass outside protected area,1,1,4
+Wakatobi,Ecology,Habitat quality in protected area,3,1,5
+Wakatobi,Ecology,Habitat quality outside protected area,1,1,6
+Wakatobi,Economics,Total Catch,3,1,1
+Wakatobi,Economics,CPUE (new 2/21),1,1,2
+Wakatobi,Economics,Total Revenue,0,1,3
+Wakatobi,Economics,No. vessels,3,1,4
+Wakatobi,Economics,Catch per vessel/fisherman (new 2/14),0,1,5
+Wakatobi,Economics,Costs,0,1,6
+Wakatobi,Economics,Net Revenue,0,1,7
+Wakatobi,Economics,Ex vessel price,0,1,8
+Wakatobi,Economics,Wholesale prices,0,1,9
+Wakatobi,Economics,Anything about processing,0,1,10
+Wakatobi,Community,Employment,5,1,1
+Wakatobi,Community,Working Conditions/safety,3,1,2
+Wakatobi,Community,Food security,5,1,3
+Wakatobi,Community,Women's involvement,0,1,4
+Wakatobi,Enabling Conditions,Institutional governance capacity of management group/agency,3,1,1
+Wakatobi,Enabling Conditions,Enforcement capacity,3,1,2
+Wakatobi,Enabling Conditions,Fisher participation in design of spatial program,1,1,3
+Wakatobi,Enabling Conditions,Fisher participation in adaptive management,1,1,4
+Wakatobi,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",3,1,5
+Wakatobi,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,1,1,6
+Wakatobi,Enabling Conditions,Increase access to urban/export markets,0,1,7
+Columbretes,Ecology,Target abundance/biomass in protected area,5,1,1
+Columbretes,Ecology,Target abundance/biomass outside protected area,5,1,2
+Columbretes,Ecology,Non-target abundance/biomass in protected area,0,1,3
+Columbretes,Ecology,Non-target abundance/biomass outside protected area,0,1,4
+Columbretes,Ecology,Habitat quality in protected area,0,1,5
+Columbretes,Ecology,Habitat quality outside protected area,0,1,6
+Columbretes,Economics,Total Catch,5,1,1
+Columbretes,Economics,CPUE (new 2/21),0,1,2
+Columbretes,Economics,Total Revenue,0,1,3
+Columbretes,Economics,No. vessels,5,1,4
+Columbretes,Economics,Catch per vessel/fisherman (new 2/14),2,1,5
+Columbretes,Economics,Costs,0,1,6
+Columbretes,Economics,Net Revenue,0,1,7
+Columbretes,Economics,Ex vessel price,0,1,8
+Columbretes,Economics,Wholesale prices,0,1,9
+Columbretes,Economics,Anything about processing,0,1,10
+Columbretes,Community,Employment,3,1,1
+Columbretes,Community,Working Conditions/safety,0,1,2
+Columbretes,Community,Food security,0,1,3
+Columbretes,Community,Women's involvement,0,1,4
+Columbretes,Enabling Conditions,Institutional governance capacity of management group/agency,0,1,1
+Columbretes,Enabling Conditions,Enforcement capacity,1,1,2
+Columbretes,Enabling Conditions,Fisher participation in design of spatial program,0,1,3
+Columbretes,Enabling Conditions,Fisher participation in adaptive management,0,1,4
+Columbretes,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",0,1,5
+Columbretes,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,0,1,6
+Columbretes,Enabling Conditions,Increase access to urban/export markets,0,1,7
+Kenya Old,Ecology,Target abundance/biomass in protected area,5,1,1
+Kenya Old,Ecology,Target abundance/biomass outside protected area,5,1,2
+Kenya Old,Ecology,Non-target abundance/biomass in protected area,5,1,3
+Kenya Old,Ecology,Non-target abundance/biomass outside protected area,5,1,4
+Kenya Old,Ecology,Habitat quality in protected area,5,1,5
+Kenya Old,Ecology,Habitat quality outside protected area,5,1,6
+Kenya Old,Economics,Total Catch,5,1,1
+Kenya Old,Economics,CPUE (new 2/21),0,1,2
+Kenya Old,Economics,Total Revenue,0,1,3
+Kenya Old,Economics,No. vessels,0,1,4
+Kenya Old,Economics,Catch per vessel/fisherman (new 2/14),1,1,5
+Kenya Old,Economics,Costs,0,1,6
+Kenya Old,Economics,Net Revenue,0,1,7
+Kenya Old,Economics,Ex vessel price,0,1,8
+Kenya Old,Economics,Wholesale prices,0,1,9
+Kenya Old,Economics,Anything about processing,5,1,10
+Kenya Old,Community,Employment,0,1,1
+Kenya Old,Community,Working Conditions/safety,5,1,2
+Kenya Old,Community,Food security,0,1,3
+Kenya Old,Community,Women's involvement,,1,4
+Kenya Old,Enabling Conditions,Institutional governance capacity of management group/agency,,1,1
+Kenya Old,Enabling Conditions,Enforcement capacity,,1,2
+Kenya Old,Enabling Conditions,Fisher participation in design of spatial program,,1,3
+Kenya Old,Enabling Conditions,Fisher participation in adaptive management,,1,4
+Kenya Old,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",,1,5
+Kenya Old,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,,1,6
+Kenya Old,Enabling Conditions,Increase access to urban/export markets,,1,7
+Kenya New,Ecology,Target abundance/biomass in protected area,5,1,1
+Kenya New,Ecology,Target abundance/biomass outside protected area,5,1,2
+Kenya New,Ecology,Non-target abundance/biomass in protected area,5,1,3
+Kenya New,Ecology,Non-target abundance/biomass outside protected area,5,1,4
+Kenya New,Ecology,Habitat quality in protected area,5,1,5
+Kenya New,Ecology,Habitat quality outside protected area,5,1,6
+Kenya New,Economics,Total Catch,5,1,1
+Kenya New,Economics,CPUE (new 2/21),5,1,2
+Kenya New,Economics,Total Revenue,1,1,3
+Kenya New,Economics,No. vessels,1,1,4
+Kenya New,Economics,Catch per vessel/fisherman (new 2/14),5,1,5
+Kenya New,Economics,Costs,5,1,6
+Kenya New,Economics,Net Revenue,0,1,7
+Kenya New,Economics,Ex vessel price,5,1,8
+Kenya New,Economics,Wholesale prices,0,1,9
+Kenya New,Economics,Anything about processing,0,1,10
+Kenya New,Community,Employment,5,1,1
+Kenya New,Community,Working Conditions/safety,0,1,2
+Kenya New,Community,Food security,5,1,3
+Kenya New,Community,Women's involvement,1,1,4
+Kenya New,Enabling Conditions,Institutional governance capacity of management group/agency,,1,1
+Kenya New,Enabling Conditions,Enforcement capacity,,1,2
+Kenya New,Enabling Conditions,Fisher participation in design of spatial program,,1,3
+Kenya New,Enabling Conditions,Fisher participation in adaptive management,,1,4
+Kenya New,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",,1,5
+Kenya New,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,,1,6
+Kenya New,Enabling Conditions,Increase access to urban/export markets,,1,7
+Nabq MRPA (combined),Ecology,Target abundance/biomass in protected area,5,1,1
+Nabq MRPA (combined),Ecology,Target abundance/biomass outside protected area,5,1,2
+Nabq MRPA (combined),Ecology,Non-target abundance/biomass in protected area,5,1,3
+Nabq MRPA (combined),Ecology,Non-target abundance/biomass outside protected area,5,1,4
+Nabq MRPA (combined),Ecology,Habitat quality in protected area,5,1,5
+Nabq MRPA (combined),Ecology,Habitat quality outside protected area,5,1,6
+Nabq MRPA (combined),Economics,Total Catch,3,1,1
+Nabq MRPA (combined),Economics,CPUE (new 2/21),5,1,2
+Nabq MRPA (combined),Economics,Total Revenue,0,1,3
+Nabq MRPA (combined),Economics,No. vessels,5,1,4
+Nabq MRPA (combined),Economics,Catch per vessel/fisherman (new 2/14),0,1,5
+Nabq MRPA (combined),Economics,Costs,0,1,6
+Nabq MRPA (combined),Economics,Net Revenue,0,1,7
+Nabq MRPA (combined),Economics,Ex vessel price,2,1,8
+Nabq MRPA (combined),Economics,Wholesale prices,0,1,9
+Nabq MRPA (combined),Economics,Anything about processing,0,1,10
+Nabq MRPA (combined),Community,Employment,5,1,1
+Nabq MRPA (combined),Community,Working Conditions/safety,0,1,2
+Nabq MRPA (combined),Community,Food security,0,1,3
+Nabq MRPA (combined),Community,Women's involvement,5,1,4
+Nabq MRPA (combined),Enabling Conditions,Institutional governance capacity of management group/agency,,1,1
+Nabq MRPA (combined),Enabling Conditions,Enforcement capacity,,1,2
+Nabq MRPA (combined),Enabling Conditions,Fisher participation in design of spatial program,,1,3
+Nabq MRPA (combined),Enabling Conditions,Fisher participation in adaptive management,,1,4
+Nabq MRPA (combined),Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",,1,5
+Nabq MRPA (combined),Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,,1,6
+Nabq MRPA (combined),Enabling Conditions,Increase access to urban/export markets,,1,7
+Fiji - LMMA,Ecology,Target abundance/biomass in protected area,5,1,1
+Fiji - LMMA,Ecology,Target abundance/biomass outside protected area,4,1,2
+Fiji - LMMA,Ecology,Non-target abundance/biomass in protected area,4,1,3
+Fiji - LMMA,Ecology,Non-target abundance/biomass outside protected area,0,1,4
+Fiji - LMMA,Ecology,Habitat quality in protected area,3,1,5
+Fiji - LMMA,Ecology,Habitat quality outside protected area,0,1,6
+Fiji - LMMA,Economics,Total Catch,4,1,1
+Fiji - LMMA,Economics,CPUE (new 2/21),0,1,2
+Fiji - LMMA,Economics,Total Revenue,3,1,3
+Fiji - LMMA,Economics,No. vessels,3,1,4
+Fiji - LMMA,Economics,Catch per vessel/fisherman (new 2/14),0,1,5
+Fiji - LMMA,Economics,Costs,4,1,6
+Fiji - LMMA,Economics,Net Revenue,0,1,7
+Fiji - LMMA,Economics,Ex vessel price,0,1,8
+Fiji - LMMA,Economics,Wholesale prices,1,1,9
+Fiji - LMMA,Economics,Anything about processing,2,1,10
+Fiji - LMMA,Community,Employment,4,1,1
+Fiji - LMMA,Community,Working Conditions/safety,0,1,2
+Fiji - LMMA,Community,Food security,4,1,3
+Fiji - LMMA,Community,Women's involvement,4,1,4
+Fiji - LMMA,Enabling Conditions,Institutional governance capacity of management group/agency,,1,1
+Fiji - LMMA,Enabling Conditions,Enforcement capacity,,1,2
+Fiji - LMMA,Enabling Conditions,Fisher participation in design of spatial program,,1,3
+Fiji - LMMA,Enabling Conditions,Fisher participation in adaptive management,,1,4
+Fiji - LMMA,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",,1,5
+Fiji - LMMA,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,,1,6
+Fiji - LMMA,Enabling Conditions,Increase access to urban/export markets,,1,7
+Madagascar Octopus,Ecology,Target abundance/biomass in protected area,5,1,1
+Madagascar Octopus,Ecology,Target abundance/biomass outside protected area,5,1,2
+Madagascar Octopus,Ecology,Non-target abundance/biomass in protected area,3,1,3
+Madagascar Octopus,Ecology,Non-target abundance/biomass outside protected area,0,1,4
+Madagascar Octopus,Ecology,Habitat quality in protected area,3,1,5
+Madagascar Octopus,Ecology,Habitat quality outside protected area,0,1,6
+Madagascar Octopus,Economics,Total Catch,5,1,1
+Madagascar Octopus,Economics,CPUE (new 2/21),5,1,2
+Madagascar Octopus,Economics,Total Revenue,5,1,3
+Madagascar Octopus,Economics,No. vessels,1,1,4
+Madagascar Octopus,Economics,Catch per vessel/fisherman (new 2/14),5,1,5
+Madagascar Octopus,Economics,Costs,0,1,6
+Madagascar Octopus,Economics,Net Revenue,5,1,7
+Madagascar Octopus,Economics,Ex vessel price,0,1,8
+Madagascar Octopus,Economics,Wholesale prices,1,1,9
+Madagascar Octopus,Economics,Anything about processing,3,1,10
+Madagascar Octopus,Community,Employment,3,1,1
+Madagascar Octopus,Community,Working Conditions/safety,0,1,2
+Madagascar Octopus,Community,Food security,1,1,3
+Madagascar Octopus,Community,Women's involvement,3,1,4
+Madagascar Octopus,Enabling Conditions,Institutional governance capacity of management group/agency,,1,1
+Madagascar Octopus,Enabling Conditions,Enforcement capacity,,1,2
+Madagascar Octopus,Enabling Conditions,Fisher participation in design of spatial program,,1,3
+Madagascar Octopus,Enabling Conditions,Fisher participation in adaptive management,,1,4
+Madagascar Octopus,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",,1,5
+Madagascar Octopus,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,,1,6
+Madagascar Octopus,Enabling Conditions,Increase access to urban/export markets,,1,7
+Castellmare,Ecology,Target abundance/biomass in protected area,5,1,1
+Castellmare,Ecology,Target abundance/biomass outside protected area,5,1,2
+Castellmare,Ecology,Non-target abundance/biomass in protected area,5,1,3
+Castellmare,Ecology,Non-target abundance/biomass outside protected area,0,1,4
+Castellmare,Ecology,Habitat quality in protected area,0,1,5
+Castellmare,Ecology,Habitat quality outside protected area,0,1,6
+Castellmare,Economics,Total Catch,0,1,1
+Castellmare,Economics,CPUE (new 2/21),4,1,2
+Castellmare,Economics,Total Revenue,4,1,3
+Castellmare,Economics,No. vessels,5,1,4
+Castellmare,Economics,Catch per vessel/fisherman (new 2/14),0,1,5
+Castellmare,Economics,Costs,3,1,6
+Castellmare,Economics,Net Revenue,4,1,7
+Castellmare,Economics,Ex vessel price,0,1,8
+Castellmare,Economics,Wholesale prices,0,1,9
+Castellmare,Economics,Anything about processing,0,1,10
+Castellmare,Community,Employment,4,1,1
+Castellmare,Community,Working Conditions/safety,3,1,2
+Castellmare,Community,Food security,0,1,3
+Castellmare,Community,Women's involvement,0,1,4
+Castellmare,Enabling Conditions,Institutional governance capacity of management group/agency,,1,1
+Castellmare,Enabling Conditions,Enforcement capacity,,1,2
+Castellmare,Enabling Conditions,Fisher participation in design of spatial program,,1,3
+Castellmare,Enabling Conditions,Fisher participation in adaptive management,,1,4
+Castellmare,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",,1,5
+Castellmare,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,,1,6
+Castellmare,Enabling Conditions,Increase access to urban/export markets,,1,7
+Apo Island,Ecology,Target abundance/biomass in protected area,5,1,1
+Apo Island,Ecology,Target abundance/biomass outside protected area,5,1,2
+Apo Island,Ecology,Non-target abundance/biomass in protected area,0,1,3
+Apo Island,Ecology,Non-target abundance/biomass outside protected area,0,1,4
+Apo Island,Ecology,Habitat quality in protected area,2,1,5
+Apo Island,Ecology,Habitat quality outside protected area,0,1,6
+Apo Island,Economics,Total Catch,4,1,1
+Apo Island,Economics,CPUE (new 2/21),5,1,2
+Apo Island,Economics,Total Revenue,0,1,3
+Apo Island,Economics,No. vessels,5,1,4
+Apo Island,Economics,Catch per vessel/fisherman (new 2/14),3,1,5
+Apo Island,Economics,Costs,0,1,6
+Apo Island,Economics,Net Revenue,0,1,7
+Apo Island,Economics,Ex vessel price,0,1,8
+Apo Island,Economics,Wholesale prices,0,1,9
+Apo Island,Economics,Anything about processing,0,1,10
+Apo Island,Community,Employment,3,1,1
+Apo Island,Community,Working Conditions/safety,0,1,2
+Apo Island,Community,Food security,0,1,3
+Apo Island,Community,Women's involvement,0,1,4
+Apo Island,Enabling Conditions,Institutional governance capacity of management group/agency,,1,1
+Apo Island,Enabling Conditions,Enforcement capacity,,1,2
+Apo Island,Enabling Conditions,Fisher participation in design of spatial program,,1,3
+Apo Island,Enabling Conditions,Fisher participation in adaptive management,,1,4
+Apo Island,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",,1,5
+Apo Island,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,,1,6
+Apo Island,Enabling Conditions,Increase access to urban/export markets,,1,7
+Plaice Box in North Sea,Ecology,Target abundance/biomass in protected area,5,1,1
+Plaice Box in North Sea,Ecology,Target abundance/biomass outside protected area,5,1,2
+Plaice Box in North Sea,Ecology,Non-target abundance/biomass in protected area,5,1,3
+Plaice Box in North Sea,Ecology,Non-target abundance/biomass outside protected area,0,1,4
+Plaice Box in North Sea,Ecology,Habitat quality in protected area,5,1,5
+Plaice Box in North Sea,Ecology,Habitat quality outside protected area,5,1,6
+Plaice Box in North Sea,Economics,Total Catch,5,1,1
+Plaice Box in North Sea,Economics,CPUE (new 2/21),3,1,2
+Plaice Box in North Sea,Economics,Total Revenue,5,1,3
+Plaice Box in North Sea,Economics,No. vessels,5,1,4
+Plaice Box in North Sea,Economics,Catch per vessel/fisherman (new 2/14),0,1,5
+Plaice Box in North Sea,Economics,Costs,0,1,6
+Plaice Box in North Sea,Economics,Net Revenue,0,1,7
+Plaice Box in North Sea,Economics,Ex vessel price,0,1,8
+Plaice Box in North Sea,Economics,Wholesale prices,4,1,9
+Plaice Box in North Sea,Economics,Anything about processing,0,1,10
+Plaice Box in North Sea,Community,Employment,0,1,1
+Plaice Box in North Sea,Community,Working Conditions/safety,0,1,2
+Plaice Box in North Sea,Community,Food security,4,1,3
+Plaice Box in North Sea,Community,Women's involvement,0,1,4
+Plaice Box in North Sea,Enabling Conditions,Institutional governance capacity of management group/agency,,1,1
+Plaice Box in North Sea,Enabling Conditions,Enforcement capacity,,1,2
+Plaice Box in North Sea,Enabling Conditions,Fisher participation in design of spatial program,,1,3
+Plaice Box in North Sea,Enabling Conditions,Fisher participation in adaptive management,,1,4
+Plaice Box in North Sea,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",,1,5
+Plaice Box in North Sea,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,,1,6
+Plaice Box in North Sea,Enabling Conditions,Increase access to urban/export markets,,1,7
+Baltic Cod,Ecology,Target abundance/biomass in protected area,4,1,1
+Baltic Cod,Ecology,Target abundance/biomass outside protected area,2,1,2
+Baltic Cod,Ecology,Non-target abundance/biomass in protected area,0,1,3
+Baltic Cod,Ecology,Non-target abundance/biomass outside protected area,3,1,4
+Baltic Cod,Ecology,Habitat quality in protected area,2,1,5
+Baltic Cod,Ecology,Habitat quality outside protected area,0,1,6
+Baltic Cod,Economics,Total Catch,5,1,1
+Baltic Cod,Economics,CPUE (new 2/21),0,1,2
+Baltic Cod,Economics,Total Revenue,4,1,3
+Baltic Cod,Economics,No. vessels,3,1,4
+Baltic Cod,Economics,Catch per vessel/fisherman (new 2/14),0,1,5
+Baltic Cod,Economics,Costs,0,1,6
+Baltic Cod,Economics,Net Revenue,0,1,7
+Baltic Cod,Economics,Ex vessel price,0,1,8
+Baltic Cod,Economics,Wholesale prices,5,1,9
+Baltic Cod,Economics,Anything about processing,5,1,10
+Baltic Cod,Community,Employment,4,1,1
+Baltic Cod,Community,Working Conditions/safety,3,1,2
+Baltic Cod,Community,Food security,3,1,3
+Baltic Cod,Community,Women's involvement,0,1,4
+Baltic Cod,Enabling Conditions,Institutional governance capacity of management group/agency,,1,1
+Baltic Cod,Enabling Conditions,Enforcement capacity,,1,2
+Baltic Cod,Enabling Conditions,Fisher participation in design of spatial program,,1,3
+Baltic Cod,Enabling Conditions,Fisher participation in adaptive management,,1,4
+Baltic Cod,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",,1,5
+Baltic Cod,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,,1,6
+Baltic Cod,Enabling Conditions,Increase access to urban/export markets,,1,7
+Great Barrier Reef Marine,Ecology,Target abundance/biomass in protected area,5,1,1
+Great Barrier Reef Marine,Ecology,Target abundance/biomass outside protected area,5,1,2
+Great Barrier Reef Marine,Ecology,Non-target abundance/biomass in protected area,5,1,3
+Great Barrier Reef Marine,Ecology,Non-target abundance/biomass outside protected area,5,1,4
+Great Barrier Reef Marine,Ecology,Habitat quality in protected area,4,1,5
+Great Barrier Reef Marine,Ecology,Habitat quality outside protected area,2,1,6
+Great Barrier Reef Marine,Economics,Total Catch,1,1,1
+Great Barrier Reef Marine,Economics,CPUE (new 2/21),0,1,2
+Great Barrier Reef Marine,Economics,Total Revenue,1,1,3
+Great Barrier Reef Marine,Economics,No. vessels,1,1,4
+Great Barrier Reef Marine,Economics,Catch per vessel/fisherman (new 2/14),0,1,5
+Great Barrier Reef Marine,Economics,Costs,0,1,6
+Great Barrier Reef Marine,Economics,Net Revenue,0,1,7
+Great Barrier Reef Marine,Economics,Ex vessel price,0,1,8
+Great Barrier Reef Marine,Economics,Wholesale prices,0,1,9
+Great Barrier Reef Marine,Economics,Anything about processing,0,1,10
+Great Barrier Reef Marine,Community,Employment,1,1,1
+Great Barrier Reef Marine,Community,Working Conditions/safety,0,1,2
+Great Barrier Reef Marine,Community,Food security,3,1,3
+Great Barrier Reef Marine,Community,Women's involvement,4,1,4
+Great Barrier Reef Marine,Enabling Conditions,Institutional governance capacity of management group/agency,,1,1
+Great Barrier Reef Marine,Enabling Conditions,Enforcement capacity,,1,2
+Great Barrier Reef Marine,Enabling Conditions,Fisher participation in design of spatial program,,1,3
+Great Barrier Reef Marine,Enabling Conditions,Fisher participation in adaptive management,,1,4
+Great Barrier Reef Marine,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",,1,5
+Great Barrier Reef Marine,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,,1,6
+Great Barrier Reef Marine,Enabling Conditions,Increase access to urban/export markets,,1,7
+Brazil MER 1996-2007,Ecology,Target abundance/biomass in protected area,4,1,1
+Brazil MER 1996-2007,Ecology,Target abundance/biomass outside protected area,0,1,2
+Brazil MER 1996-2007,Ecology,Non-target abundance/biomass in protected area,5,1,3
+Brazil MER 1996-2007,Ecology,Non-target abundance/biomass outside protected area,0,1,4
+Brazil MER 1996-2007,Ecology,Habitat quality in protected area,0,1,5
+Brazil MER 1996-2007,Ecology,Habitat quality outside protected area,0,1,6
+Brazil MER 1996-2007,Economics,Total Catch,3,1,1
+Brazil MER 1996-2007,Economics,CPUE (new 2/21),0,1,2
+Brazil MER 1996-2007,Economics,Total Revenue,4,1,3
+Brazil MER 1996-2007,Economics,No. vessels,2,1,4
+Brazil MER 1996-2007,Economics,Catch per vessel/fisherman (new 2/14),2,1,5
+Brazil MER 1996-2007,Economics,Costs,4,1,6
+Brazil MER 1996-2007,Economics,Net Revenue,0,1,7
+Brazil MER 1996-2007,Economics,Ex vessel price,0,1,8
+Brazil MER 1996-2007,Economics,Wholesale prices,0,1,9
+Brazil MER 1996-2007,Economics,Anything about processing,2,1,10
+Brazil MER 1996-2007,Community,Employment,3,1,1
+Brazil MER 1996-2007,Community,Working Conditions/safety,4,1,2
+Brazil MER 1996-2007,Community,Food security,2,1,3
+Brazil MER 1996-2007,Community,Women's involvement,3,1,4
+Brazil MER 1996-2007,Enabling Conditions,Institutional governance capacity of management group/agency,,1,1
+Brazil MER 1996-2007,Enabling Conditions,Enforcement capacity,,1,2
+Brazil MER 1996-2007,Enabling Conditions,Fisher participation in design of spatial program,,1,3
+Brazil MER 1996-2007,Enabling Conditions,Fisher participation in adaptive management,,1,4
+Brazil MER 1996-2007,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",,1,5
+Brazil MER 1996-2007,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,,1,6
+Brazil MER 1996-2007,Enabling Conditions,Increase access to urban/export markets,,1,7
+Brazil MER 2008-,Ecology,Target abundance/biomass in protected area,4,1,1
+Brazil MER 2008-,Ecology,Target abundance/biomass outside protected area,0,1,2
+Brazil MER 2008-,Ecology,Non-target abundance/biomass in protected area,2,1,3
+Brazil MER 2008-,Ecology,Non-target abundance/biomass outside protected area,0,1,4
+Brazil MER 2008-,Ecology,Habitat quality in protected area,0,1,5
+Brazil MER 2008-,Ecology,Habitat quality outside protected area,0,1,6
+Brazil MER 2008-,Economics,Total Catch,0,1,1
+Brazil MER 2008-,Economics,CPUE (new 2/21),0,1,2
+Brazil MER 2008-,Economics,Total Revenue,2,1,3
+Brazil MER 2008-,Economics,No. vessels,2,1,4
+Brazil MER 2008-,Economics,Catch per vessel/fisherman (new 2/14),2,1,5
+Brazil MER 2008-,Economics,Costs,2,1,6
+Brazil MER 2008-,Economics,Net Revenue,0,1,7
+Brazil MER 2008-,Economics,Ex vessel price,0,1,8
+Brazil MER 2008-,Economics,Wholesale prices,0,1,9
+Brazil MER 2008-,Economics,Anything about processing,0,1,10
+Brazil MER 2008-,Community,Employment,3,1,1
+Brazil MER 2008-,Community,Working Conditions/safety,2,1,2
+Brazil MER 2008-,Community,Food security,2,1,3
+Brazil MER 2008-,Community,Women's involvement,2,1,4
+Brazil MER 2008-,Enabling Conditions,Institutional governance capacity of management group/agency,,1,1
+Brazil MER 2008-,Enabling Conditions,Enforcement capacity,,1,2
+Brazil MER 2008-,Enabling Conditions,Fisher participation in design of spatial program,,1,3
+Brazil MER 2008-,Enabling Conditions,Fisher participation in adaptive management,,1,4
+Brazil MER 2008-,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",,1,5
+Brazil MER 2008-,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,,1,6
+Brazil MER 2008-,Enabling Conditions,Increase access to urban/export markets,,1,7
+TURFs in Chile,Ecology,Target abundance/biomass in protected area,4,1,1
+TURFs in Chile,Ecology,Target abundance/biomass outside protected area,2,1,2
+TURFs in Chile,Ecology,Non-target abundance/biomass in protected area,2,1,3
+TURFs in Chile,Ecology,Non-target abundance/biomass outside protected area,2,1,4
+TURFs in Chile,Ecology,Habitat quality in protected area,2,1,5
+TURFs in Chile,Ecology,Habitat quality outside protected area,0,1,6
+TURFs in Chile,Economics,Total Catch,3,1,1
+TURFs in Chile,Economics,CPUE (new 2/21),0,1,2
+TURFs in Chile,Economics,Total Revenue,1,1,3
+TURFs in Chile,Economics,No. vessels,2,1,4
+TURFs in Chile,Economics,Catch per vessel/fisherman (new 2/14),2,1,5
+TURFs in Chile,Economics,Costs,0,1,6
+TURFs in Chile,Economics,Net Revenue,3,1,7
+TURFs in Chile,Economics,Ex vessel price,2,1,8
+TURFs in Chile,Economics,Wholesale prices,0,1,9
+TURFs in Chile,Economics,Anything about processing,0,1,10
+TURFs in Chile,Community,Employment,3,1,1
+TURFs in Chile,Community,Working Conditions/safety,3,1,2
+TURFs in Chile,Community,Food security,2,1,3
+TURFs in Chile,Community,Women's involvement,3,1,4
+TURFs in Chile,Enabling Conditions,Institutional governance capacity of management group/agency,,1,1
+TURFs in Chile,Enabling Conditions,Enforcement capacity,,1,2
+TURFs in Chile,Enabling Conditions,Fisher participation in design of spatial program,,1,3
+TURFs in Chile,Enabling Conditions,Fisher participation in adaptive management,,1,4
+TURFs in Chile,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",,1,5
+TURFs in Chile,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,,1,6
+TURFs in Chile,Enabling Conditions,Increase access to urban/export markets,,1,7
+Isla Natividad TURFs,Ecology,Target abundance/biomass in protected area,5,1,1
+Isla Natividad TURFs,Ecology,Target abundance/biomass outside protected area,5,1,2
+Isla Natividad TURFs,Ecology,Non-target abundance/biomass in protected area,5,1,3
+Isla Natividad TURFs,Ecology,Non-target abundance/biomass outside protected area,5,1,4
+Isla Natividad TURFs,Ecology,Habitat quality in protected area,0,1,5
+Isla Natividad TURFs,Ecology,Habitat quality outside protected area,0,1,6
+Isla Natividad TURFs,Economics,Total Catch,5,1,1
+Isla Natividad TURFs,Economics,CPUE (new 2/21),0,1,2
+Isla Natividad TURFs,Economics,Total Revenue,5,1,3
+Isla Natividad TURFs,Economics,No. vessels,0,1,4
+Isla Natividad TURFs,Economics,Catch per vessel/fisherman (new 2/14),0,1,5
+Isla Natividad TURFs,Economics,Costs,3,1,6
+Isla Natividad TURFs,Economics,Net Revenue,5,1,7
+Isla Natividad TURFs,Economics,Ex vessel price,0,1,8
+Isla Natividad TURFs,Economics,Wholesale prices,0,1,9
+Isla Natividad TURFs,Economics,Anything about processing,0,1,10
+Isla Natividad TURFs,Community,Employment,3,1,1
+Isla Natividad TURFs,Community,Working Conditions/safety,0,1,2
+Isla Natividad TURFs,Community,Food security,0,1,3
+Isla Natividad TURFs,Community,Women's involvement,3,1,4
+Isla Natividad TURFs,Enabling Conditions,Institutional governance capacity of management group/agency,,1,1
+Isla Natividad TURFs,Enabling Conditions,Enforcement capacity,,1,2
+Isla Natividad TURFs,Enabling Conditions,Fisher participation in design of spatial program,,1,3
+Isla Natividad TURFs,Enabling Conditions,Fisher participation in adaptive management,,1,4
+Isla Natividad TURFs,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",,1,5
+Isla Natividad TURFs,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,,1,6
+Isla Natividad TURFs,Enabling Conditions,Increase access to urban/export markets,,1,7
+Kyoto Crab,Ecology,Target abundance/biomass in protected area,2,1,1
+Kyoto Crab,Ecology,Target abundance/biomass outside protected area,4,1,2
+Kyoto Crab,Ecology,Non-target abundance/biomass in protected area,0,1,3
+Kyoto Crab,Ecology,Non-target abundance/biomass outside protected area,0,1,4
+Kyoto Crab,Ecology,Habitat quality in protected area,0,1,5
+Kyoto Crab,Ecology,Habitat quality outside protected area,0,1,6
+Kyoto Crab,Economics,Total Catch,4,1,1
+Kyoto Crab,Economics,CPUE (new 2/21),4,1,2
+Kyoto Crab,Economics,Total Revenue,4,1,3
+Kyoto Crab,Economics,No. vessels,5,1,4
+Kyoto Crab,Economics,Catch per vessel/fisherman (new 2/14),0,1,5
+Kyoto Crab,Economics,Costs,3,1,6
+Kyoto Crab,Economics,Net Revenue,3,1,7
+Kyoto Crab,Economics,Ex vessel price,1,1,8
+Kyoto Crab,Economics,Wholesale prices,0,1,9
+Kyoto Crab,Economics,Anything about processing,0,1,10
+Kyoto Crab,Community,Employment,5,1,1
+Kyoto Crab,Community,Working Conditions/safety,1,1,2
+Kyoto Crab,Community,Food security,0,1,3
+Kyoto Crab,Community,Women's involvement,0,1,4
+Kyoto Crab,Enabling Conditions,Institutional governance capacity of management group/agency,,1,1
+Kyoto Crab,Enabling Conditions,Enforcement capacity,,1,2
+Kyoto Crab,Enabling Conditions,Fisher participation in design of spatial program,,1,3
+Kyoto Crab,Enabling Conditions,Fisher participation in adaptive management,,1,4
+Kyoto Crab,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",,1,5
+Kyoto Crab,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,,1,6
+Kyoto Crab,Enabling Conditions,Increase access to urban/export markets,,1,7
+Trawl Rockfish RCAs,Ecology,Target abundance/biomass in protected area,4,1,1
+Trawl Rockfish RCAs,Ecology,Target abundance/biomass outside protected area,0,1,2
+Trawl Rockfish RCAs,Ecology,Non-target abundance/biomass in protected area,4,1,3
+Trawl Rockfish RCAs,Ecology,Non-target abundance/biomass outside protected area,0,1,4
+Trawl Rockfish RCAs,Ecology,Habitat quality in protected area,1,1,5
+Trawl Rockfish RCAs,Ecology,Habitat quality outside protected area,0,1,6
+Trawl Rockfish RCAs,Economics,Total Catch,4,1,1
+Trawl Rockfish RCAs,Economics,CPUE (new 2/21),0,1,2
+Trawl Rockfish RCAs,Economics,Total Revenue,4,1,3
+Trawl Rockfish RCAs,Economics,No. vessels,4,1,4
+Trawl Rockfish RCAs,Economics,Catch per vessel/fisherman (new 2/14),0,1,5
+Trawl Rockfish RCAs,Economics,Costs,4,1,6
+Trawl Rockfish RCAs,Economics,Net Revenue,1,1,7
+Trawl Rockfish RCAs,Economics,Ex vessel price,4,1,8
+Trawl Rockfish RCAs,Economics,Wholesale prices,0,1,9
+Trawl Rockfish RCAs,Economics,Anything about processing,3,1,10
+Trawl Rockfish RCAs,Community,Employment,3,1,1
+Trawl Rockfish RCAs,Community,Working Conditions/safety,0,1,2
+Trawl Rockfish RCAs,Community,Food security,0,1,3
+Trawl Rockfish RCAs,Community,Women's involvement,0,1,4
+Trawl Rockfish RCAs,Enabling Conditions,Institutional governance capacity of management group/agency,,1,1
+Trawl Rockfish RCAs,Enabling Conditions,Enforcement capacity,,1,2
+Trawl Rockfish RCAs,Enabling Conditions,Fisher participation in design of spatial program,,1,3
+Trawl Rockfish RCAs,Enabling Conditions,Fisher participation in adaptive management,,1,4
+Trawl Rockfish RCAs,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",,1,5
+Trawl Rockfish RCAs,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,,1,6
+Trawl Rockfish RCAs,Enabling Conditions,Increase access to urban/export markets,,1,7
+NZ Rock Lobster,Ecology,Target abundance/biomass in protected area,3,1,1
+NZ Rock Lobster,Ecology,Target abundance/biomass outside protected area,3,1,2
+NZ Rock Lobster,Ecology,Non-target abundance/biomass in protected area,3,1,3
+NZ Rock Lobster,Ecology,Non-target abundance/biomass outside protected area,3,1,4
+NZ Rock Lobster,Ecology,Habitat quality in protected area,3,1,5
+NZ Rock Lobster,Ecology,Habitat quality outside protected area,3,1,6
+NZ Rock Lobster,Economics,Total Catch,4,1,1
+NZ Rock Lobster,Economics,CPUE (new 2/21),0,1,2
+NZ Rock Lobster,Economics,Total Revenue,4,1,3
+NZ Rock Lobster,Economics,No. vessels,4,1,4
+NZ Rock Lobster,Economics,Catch per vessel/fisherman (new 2/14),0,1,5
+NZ Rock Lobster,Economics,Costs,4,1,6
+NZ Rock Lobster,Economics,Net Revenue,1,1,7
+NZ Rock Lobster,Economics,Ex vessel price,4,1,8
+NZ Rock Lobster,Economics,Wholesale prices,0,1,9
+NZ Rock Lobster,Economics,Anything about processing,3,1,10
+NZ Rock Lobster,Community,Employment,3,1,1
+NZ Rock Lobster,Community,Working Conditions/safety,0,1,2
+NZ Rock Lobster,Community,Food security,0,1,3
+NZ Rock Lobster,Community,Women's involvement,0,1,4
+NZ Rock Lobster,Enabling Conditions,Institutional governance capacity of management group/agency,,1,1
+NZ Rock Lobster,Enabling Conditions,Enforcement capacity,,1,2
+NZ Rock Lobster,Enabling Conditions,Fisher participation in design of spatial program,,1,3
+NZ Rock Lobster,Enabling Conditions,Fisher participation in adaptive management,,1,4
+NZ Rock Lobster,Enabling Conditions,"Other stakeholder participation (e.g., tourism industry)",,1,5
+NZ Rock Lobster,Enabling Conditions,Scientific input and advice applied in design of spatial and supporting regulations,,1,6
+NZ Rock Lobster,Enabling Conditions,Increase access to urban/export markets,,1,7

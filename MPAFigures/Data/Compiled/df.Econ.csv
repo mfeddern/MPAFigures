@@ -1,0 +1,61 @@
+,Indicator,Score,Category,Count
+1,Anything about processing,0,Economics,15
+,Anything about processing,1,Economics,0
+2,Anything about processing,2,Economics,3
+3,Anything about processing,3,Economics,3
+,Anything about processing,4,Economics,0
+4,Anything about processing,5,Economics,2
+5,Catch per vessel/fisherman (new 2/14),0,Economics,14
+6,Catch per vessel/fisherman (new 2/14),1,Economics,1
+7,Catch per vessel/fisherman (new 2/14),2,Economics,4
+8,Catch per vessel/fisherman (new 2/14),3,Economics,2
+,Catch per vessel/fisherman (new 2/14),4,Economics,0
+9,Catch per vessel/fisherman (new 2/14),5,Economics,2
+10,Costs,0,Economics,13
+,Costs,1,Economics,0
+11,Costs,2,Economics,1
+12,Costs,3,Economics,3
+13,Costs,4,Economics,5
+14,Costs,5,Economics,1
+15,CPUE (new 2/21),0,Economics,12
+16,CPUE (new 2/21),1,Economics,1
+,CPUE (new 2/21),2,Economics,0
+17,CPUE (new 2/21),3,Economics,1
+18,CPUE (new 2/21),4,Economics,3
+19,CPUE (new 2/21),5,Economics,6
+20,Ex vessel price,0,Economics,15
+21,Ex vessel price,1,Economics,1
+22,Ex vessel price,2,Economics,2
+23,Ex vessel price,3,Economics,1
+24,Ex vessel price,4,Economics,2
+25,Ex vessel price,5,Economics,2
+26,Net Revenue,0,Economics,15
+27,Net Revenue,1,Economics,2
+,Net Revenue,2,Economics,0
+28,Net Revenue,3,Economics,3
+29,Net Revenue,4,Economics,1
+30,Net Revenue,5,Economics,2
+31,No. vessels,0,Economics,3
+32,No. vessels,1,Economics,3
+33,No. vessels,2,Economics,3
+34,No. vessels,3,Economics,3
+35,No. vessels,4,Economics,3
+36,No. vessels,5,Economics,8
+37,Total Catch,0,Economics,4
+38,Total Catch,1,Economics,3
+,Total Catch,2,Economics,0
+39,Total Catch,3,Economics,4
+40,Total Catch,4,Economics,5
+41,Total Catch,5,Economics,7
+42,Total Revenue,0,Economics,6
+43,Total Revenue,1,Economics,4
+44,Total Revenue,2,Economics,1
+45,Total Revenue,3,Economics,2
+46,Total Revenue,4,Economics,6
+47,Total Revenue,5,Economics,4
+48,Wholesale prices,0,Economics,18
+49,Wholesale prices,1,Economics,2
+,Wholesale prices,2,Economics,0
+,Wholesale prices,3,Economics,0
+50,Wholesale prices,4,Economics,1
+51,Wholesale prices,5,Economics,2
